@@ -155,7 +155,7 @@ This analysis demonstrates how healthcare systems can:
 ## How to Run
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/AkilAhnaf18/Healthcare-SQL-Analysis.git
 cd healthcare-sql-analysis
 pip install -r requirements.txt
 python load_data.py
