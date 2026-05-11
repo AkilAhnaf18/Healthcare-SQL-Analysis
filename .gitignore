@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files — too large for GitHub, see download instructions below
+*.db
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
