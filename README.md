@@ -39,6 +39,7 @@ and regional cost disparities across New York State.
 - **SQL** — SQLite via Python's sqlite3 module
 - **Jupyter Notebook** — analysis and visualization
 - **VS Code** — development environment
+- **Power BI** — interactive dashboard for business stakeholder reporting
 
 ---
 
